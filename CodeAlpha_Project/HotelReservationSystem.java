@@ -40,7 +40,7 @@ public class HotelReservationSystem{
         System.out.println("\n     HOTEL RESERVATION SYSTEM     ");
         System.out.println("1.Search for available rooms.");
         System.out.println("2.Make a reservation.");
-        System.out.println("3.View booking histroy (File)");
+        System.out.println("3.View booking history (File)");
         System.out.println("4.Exit");
         System.out.print("Choose an option: ");
 
